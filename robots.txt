@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ohsheiyait.dieselpoint.com/sitemap.xml
